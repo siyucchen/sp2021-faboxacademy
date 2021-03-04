@@ -1,6 +1,11 @@
 # 关于课程
 
-导师：陈思予 (siyu@fablabo.com) | 助教：王天齐（tianqi@fablabo.com） | 时长：8周（32小时） | 学期：2020年春季 | 年级：大一（下）| 语言：中文，如有客座导师参与，会涉及英语
+导师：陈思予 (siyu@fablabo.com) 
+助教：王天齐（tianqi@fablabo.com） 
+时长：8周（32小时） 
+学期：2020年春季
+年级：大一（下)
+语言：中文，如有客座导师参与，会涉及英语
 
 FABO ACADEMY X CHINA是一门有关于数字制造和快速成型的课程，基于麻省理工学院的如何制造（几乎）万物（How to make (almost) anything）课程和FAB FOUNDATION的全球数字制造（Fab Academy）课程。这节课中将聚焦于设计与项目制作，去熟悉全球数字工坊（Fab Lab）中的常用工具和工作模式。
 
