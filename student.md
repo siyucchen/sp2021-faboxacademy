@@ -1,6 +1,8 @@
 # 学生
 
-上海兴伟学院
+## 上海兴伟学院
+
+![image](https://user-images.githubusercontent.com/47165282/113803063-5dd01400-978e-11eb-9e5c-68fa3cf91203.jpeg)|![image](https://user-images.githubusercontent.com/47165282/113803070-60326e00-978e-11eb-88e4-548dc2a5bd96.jpeg)
 
 ## 小组：戴欣格（Grace），周金璇，王译
 
